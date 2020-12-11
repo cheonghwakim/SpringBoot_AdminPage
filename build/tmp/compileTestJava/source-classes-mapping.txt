@@ -1,16 +1,16 @@
 com/study/admin/AdminApplicationTests.java
  com.study.admin.AdminApplicationTests
-com/study/admin/repository/UserRepositoryTest.java
- com.study.admin.repository.UserRepositoryTest
-com/study/admin/repository/CategoryRepositoryTest.java
- com.study.admin.repository.CategoryRepositoryTest
-com/study/admin/repository/PartnerRepositoryTest.java
- com.study.admin.repository.PartnerRepositoryTest
-com/study/admin/repository/ItemRepositoryTest.java
- com.study.admin.repository.ItemRepositoryTest
 com/study/admin/repository/OrderGroupRepositoryTest.java
  com.study.admin.repository.OrderGroupRepositoryTest
+com/study/admin/repository/UserRepositoryTest.java
+ com.study.admin.repository.UserRepositoryTest
+com/study/admin/repository/ItemRepositoryTest.java
+ com.study.admin.repository.ItemRepositoryTest
 com/study/admin/repository/OrderDetailRepositoryTest.java
  com.study.admin.repository.OrderDetailRepositoryTest
+com/study/admin/repository/PartnerRepositoryTest.java
+ com.study.admin.repository.PartnerRepositoryTest
 com/study/admin/repository/AdminUserRepositoryTest.java
  com.study.admin.repository.AdminUserRepositoryTest
+com/study/admin/repository/CategoryRepositoryTest.java
+ com.study.admin.repository.CategoryRepositoryTest
